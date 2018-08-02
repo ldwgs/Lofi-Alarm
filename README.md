@@ -9,6 +9,8 @@ An alarm program that takes in a user's 'wake up time' and their favorite youtub
 - [x] Set up timePicker
 - [x] Set up URL input
 - [x] Set up browser functionality
+- [ ] Run program in background
+- [ ] Program to open browser using URL link
 
 # Sources
 - datePicker https://github.com/LGoodDatePicker/LGoodDatePicker
