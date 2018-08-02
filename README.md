@@ -9,3 +9,7 @@ An alarm program that takes in a user's 'wake up time' and their favorite youtub
 - [ ] Set up timePicker
 - [ ] Set up URL input
 - [ ] Set up browser functionality
+
+# Sources
+- datePicker https://github.com/LGoodDatePicker/LGoodDatePicker
+- universalOS https://stackoverflow.com/questions/5226212/how-to-open-the-default-webbrowser-using-java
